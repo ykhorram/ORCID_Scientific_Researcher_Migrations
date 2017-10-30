@@ -9,6 +9,6 @@ Data came from [Kaggle Scientific Researcher Migrations competetion](https://www
 which introduces ORCID as a persistent digital identifier that distinguishes researchers from one another and, through integration in key research workflows such as manuscript and grant submission, supports automated linkages between scientist's professional activities ensuring that they recieve recognition for their work.
 [Find out more.](https://orcid.org/about/what-is-orcid/mission)
 
-Since the output in interactive, it won't display on github to see the final product go to the following link:
+Since the output is interactive, it won't display on github to see the final product go to the following link:
 
 http://nbviewer.jupyter.org/github/ykhorram/ORCID_Scientific_Researcher_Migrations/blob/master/Orcid_migration_as_Chord_diagram.ipynb
